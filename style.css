@@ -1,0 +1,33 @@
+body {
+    color: white; 
+    
+}
+    
+h1{
+    font-size:50px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', serif;
+    color: white;
+    text-align: center;    
+}
+iframe{
+    position:relative;
+    left: 230px;
+}
+#title {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1000px;
+   
+}
+#info {
+    display: block;
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1000px;
+   text-align: center;
+}
+
+
+
+
